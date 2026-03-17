@@ -1,0 +1,5 @@
+{
+  "name": "MC Planner",
+  "description": "Een geavanceerde roosterplanner voor shift management met ATW-validatie en automatische generatie.",
+  "requestFramePermissions": []
+}
